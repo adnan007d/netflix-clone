@@ -12,4 +12,3 @@ const requests = {
 };
 
 export default requests;
-// https://api.themoviedb.org/3/discover/movie?api_key=b1d23f4d7dc6c1aabb7688d20719461f&wiht_genres=99

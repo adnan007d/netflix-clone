@@ -1,6 +1,6 @@
 # Live Website 
 
-https://netflix-clone-82a45.firebaseapp.com/
+https://netflix-clone-007d.web.app/
 
 # Getting Started with Create React App
 
